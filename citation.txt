@@ -1,0 +1,7 @@
+@inproceedings{REPO122,
+    author = "Yang, Nianzu and Zeng, Kaipeng and Wu, Qitian and Yan, Junchi",
+    booktitle = "Proceedings of the ACM Web Conference 2023",
+    pages = "4075--4085",
+    title = "{MoleRec: Combinatorial Drug Recommendation with Substructure-Aware Molecular Representation Learning}",
+    year = "2023"
+}
